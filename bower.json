@@ -1,0 +1,22 @@
+{
+  "name": "Rotate",
+  "description": "Rotate Demo",
+  "version":"0.0.1",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "Rotate"
+  ],
+  "authors": [
+    "Bill Neumann"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
